@@ -1,0 +1,6 @@
+Write a short (1-2 sentence) explanation of a financial affordability decision for the user, grounded ONLY in the facts given below. Do not introduce any number, date, or fact that isn't listed. Do not change the recommendation. Plain, direct tone, second person ("you").
+
+Facts:
+{facts}
+
+Respond with plain text only — the explanation sentence(s), nothing else.
